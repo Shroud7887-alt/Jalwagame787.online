@@ -1,0 +1,80 @@
+ body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #062f4f;
+  color: white;
+  text-align: center;
+}
+
+header {
+  background-color: #032c3c;
+  padding: 20px;
+}
+
+.logo {
+  font-size: 2rem;
+  color: #00d9ff;
+  font-weight: bold;
+}
+
+.signup-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.login-button {
+  background-color: transparent;
+  border: 2px solid #007bff;
+  color: #007bff;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.hero {
+  padding: 40px 20px;
+}
+
+.highlight {
+  color: #ffc107;
+  font-weight: bold;
+}
+
+.content {
+  padding: 20px;
+  font-size: 1.1rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+.info-table {
+  background-color: #054067;
+  color: white;
+  width: 100%;
+  max-width: 500px;
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+.info-table td, .info-table th {
+  border: 1px solid #007bff;
+  padding: 10px;
+}
+
+footer {
+  background-color: #021f2c;
+  padding: 20px;
+  font-size: 0.9rem;
+}
+
+a {
+  color: #00d9ff;
+  text-decoration: none;
+}
